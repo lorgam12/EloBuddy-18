@@ -1,0 +1,10 @@
+C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\bin\Release\FedKatarinaV2.exe.config
+C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\bin\Release\FedKatarinaV2.exe
+C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\bin\Release\FedKatarinaV2.pdb
+C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\bin\Release\EloBuddy.dll
+C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\bin\Release\EloBuddy.SDK.dll
+C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\bin\Release\SharpDX.dll
+C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\bin\Release\Newtonsoft.Json.dll
+C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\obj\Release\FedKatarinaV2.exe
+C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\obj\Release\FedKatarinaV2.pdb

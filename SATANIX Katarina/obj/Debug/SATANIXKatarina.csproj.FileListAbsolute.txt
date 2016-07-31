@@ -1,0 +1,6 @@
+C:\Desktop\Elobuddy\SATANIXKatarina.exe.config
+C:\Desktop\Elobuddy\SATANIXKatarina.exe
+C:\Desktop\Elobuddy\SATANIXKatarina.pdb
+C:\Users\ARITZ\Desktop\SATANIX Katarina\obj\Debug\SATANIXKatarina.csprojResolveAssemblyReference.cache
+C:\Users\ARITZ\Desktop\SATANIX Katarina\obj\Debug\SATANIXKatarina.exe
+C:\Users\ARITZ\Desktop\SATANIX Katarina\obj\Debug\SATANIXKatarina.pdb

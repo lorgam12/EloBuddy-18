@@ -1,0 +1,11 @@
+C:\Users\ARITZ\Desktop\SATANIX Katarina\obj\Release\SATANIXKatarina.csprojResolveAssemblyReference.cache
+C:\Users\ARITZ\Desktop\SATANIX Katarina\bin\Release\SATANIXKatarina.exe.config
+C:\Users\ARITZ\Desktop\SATANIX Katarina\bin\Release\SATANIXKatarina.exe
+C:\Users\ARITZ\Desktop\SATANIX Katarina\bin\Release\SATANIXKatarina.pdb
+C:\Users\ARITZ\Desktop\SATANIX Katarina\bin\Release\EloBuddy.dll
+C:\Users\ARITZ\Desktop\SATANIX Katarina\bin\Release\EloBuddy.SDK.dll
+C:\Users\ARITZ\Desktop\SATANIX Katarina\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\ARITZ\Desktop\SATANIX Katarina\bin\Release\SharpDX.dll
+C:\Users\ARITZ\Desktop\SATANIX Katarina\bin\Release\Newtonsoft.Json.dll
+C:\Users\ARITZ\Desktop\SATANIX Katarina\obj\Release\SATANIXKatarina.exe
+C:\Users\ARITZ\Desktop\SATANIX Katarina\obj\Release\SATANIXKatarina.pdb

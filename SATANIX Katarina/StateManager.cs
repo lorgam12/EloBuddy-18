@@ -197,8 +197,8 @@ namespace SATANIXKatarina
                 Program.W.Cast();
             }
         }
-		private static void Combo1() //QEW
-		{
+	private static void Combo1() //QEW
+	{
             var target = TargetSelector.GetTarget(Program.E.Range, EloBuddy.DamageType.Magical);
             if (!target.IsValidTarget(Program.E.Range))
                 return;
@@ -221,9 +221,9 @@ namespace SATANIXKatarina
 
                 Program.E.Cast(target);
             }
-		}
-		private static void Combo2() //EQW
-		{
+	}
+	private static void Combo2() //EQW
+	{
             var target = TargetSelector.GetTarget(Program.E.Range, EloBuddy.DamageType.Magical);
             if (Program.E.IsReady() && _Player.Distance(target.Position) < Program.E.Range)
             {
@@ -243,7 +243,7 @@ namespace SATANIXKatarina
             {
                 Program.Q.Cast(target);
             }
-		}
+	}
 
         private static void RandomCombo() //Random/dynamic Combo
         {

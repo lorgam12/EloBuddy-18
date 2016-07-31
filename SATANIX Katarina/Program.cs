@@ -48,7 +48,7 @@ namespace SATANIXKatarina
 
             menu = MainMenu.AddMenu("SATANIX Katarina", "swag");
             menu.AddGroupLabel("SATANIX Katarina");
-            menu.AddLabel("Version: " + "0.9.0.0");
+            menu.AddLabel("Version: " + "0.9.1.0");
             menu.AddSeparator();
             menu.AddLabel("Stanix");
 

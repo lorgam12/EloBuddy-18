@@ -1,7 +1,0 @@
-C:\Desktop\Elobuddy\FedKatarinaRW.exe.config
-C:\Desktop\Elobuddy\FedKatarinaRW.exe
-C:\Desktop\Elobuddy\FedKatarinaRW.pdb
-C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\obj\Debug\FedKatarinaRW.exe
-C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaV2\obj\Debug\FedKatarinaRW.pdb
-C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaRW\obj\Debug\FedKatarinaRW.exe
-C:\Users\Tylers\Desktop\WorkFiles\FedKatarinaRW\obj\Debug\FedKatarinaRW.pdb

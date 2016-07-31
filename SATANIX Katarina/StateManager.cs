@@ -43,7 +43,7 @@ namespace SATANIXKatarina
             //ComboMenu.Add("OnlyKillable", new CheckBox("Only combo if target is killable", false));
             ComboMenu.Add("TFmodeharass", new CheckBox("harass with Q while teamfight mode is on", true));
             ComboMenu.AddSeparator();
-			ComboMenu.Add("ComboLogic", new ComboBox(" Combo Logic ", 2, "Q>E>W", "E>Q>W", "Random/dynamic"));
+	    ComboMenu.Add("ComboLogic", new ComboBox(" Combo Logic ", 2, "Q>E>W>R", "E>Q>W>R", "Random/dynamic"));
             ComboMenu.AddSeparator();
             ComboMenu.Add("cR", new CheckBox("Use Smart R", false));
             ComboMenu.AddLabel("Uncheck Smart R if you just want Regular Ult usage");

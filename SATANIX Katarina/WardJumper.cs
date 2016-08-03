@@ -83,11 +83,11 @@ namespace SATANIXKatarina
             }
 
             var jumpPoint = _jumpPos;
-            if (max && jumpPoint.Distance(_Player.Position) > 700)
+            if (max && jumpPoint.Distance(_Player.Position) > 600)
             {
-                jumpPoint = _Player.Position.Extend(_jumpPos, 700).To3D();
+                jumpPoint = _Player.Position.Extend(_jumpPos, 600).To3D();
             }
-            else if (cursorOnly && jumpPoint.Distance(_Player.Position) > 700)
+            else if (cursorOnly && jumpPoint.Distance(_Player.Position) > 600)
             {
                 return;
             }

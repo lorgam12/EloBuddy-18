@@ -1,0 +1,14 @@
+C:\Users\ARITZ\Desktop\KurisuRiven\obj\Release\KurisuRiven.csprojResolveAssemblyReference.cache
+C:\Users\ARITZ\Desktop\KurisuRiven\bin\Release\KurisuRiven.exe.config
+C:\Users\ARITZ\Desktop\KurisuRiven\bin\Release\KurisuRiven.exe
+C:\Users\ARITZ\Desktop\KurisuRiven\bin\Release\KurisuRiven.pdb
+C:\Users\ARITZ\Desktop\KurisuRiven\bin\Release\EloBuddy.dll
+C:\Users\ARITZ\Desktop\KurisuRiven\bin\Release\LeagueSharp.Common.dll
+C:\Users\ARITZ\Desktop\KurisuRiven\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\ARITZ\Desktop\KurisuRiven\bin\Release\SharpDX.dll
+C:\Users\ARITZ\Desktop\KurisuRiven\bin\Release\LeagueSharp.Data.dll
+C:\Users\ARITZ\Desktop\KurisuRiven\bin\Release\EloBuddy.SDK.dll
+C:\Users\ARITZ\Desktop\KurisuRiven\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\ARITZ\Desktop\KurisuRiven\bin\Release\Newtonsoft.Json.dll
+C:\Users\ARITZ\Desktop\KurisuRiven\obj\Release\KurisuRiven.exe
+C:\Users\ARITZ\Desktop\KurisuRiven\obj\Release\KurisuRiven.pdb

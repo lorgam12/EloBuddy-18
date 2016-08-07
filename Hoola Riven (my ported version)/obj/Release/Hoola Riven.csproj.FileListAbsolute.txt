@@ -1,0 +1,30 @@
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\Hoola Riven.exe.config
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\Hoola Riven.exe
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\Hoola Riven.pdb
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\EloBuddy.dll
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\EloBuddy.SDK.dll
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\Newtonsoft.Json.dll
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\SharpDX.dll
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\SharpDX.XInput.dll
+C:\Users\ARITZ\Desktop\Hoola Riven\obj\Release\Hoola Riven.csprojResolveAssemblyReference.cache
+C:\Users\ARITZ\Desktop\Hoola Riven\obj\Release\Hoola Riven.exe
+C:\Users\ARITZ\Desktop\Hoola Riven\obj\Release\Hoola Riven.pdb
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\LeagueSharp.Common.dll
+C:\Users\ARITZ\Desktop\Hoola Riven\bin\Release\LeagueSharp.Data.dll
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\Hoola Riven.exe.config
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\Hoola Riven.exe
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\Hoola Riven.pdb
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\EloBuddy.dll
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\EloBuddy.SDK.dll
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\LeagueSharp.Common.dll
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\LeagueSharp.Data.dll
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\Newtonsoft.Json.dll
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\SharpDX.dll
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\bin\Release\SharpDX.XInput.dll
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\obj\Release\Hoola Riven.csprojResolveAssemblyReference.cache
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\obj\Release\Hoola Riven.exe
+C:\Users\ARITZ\Desktop\Hoola Riven - copia\obj\Release\Hoola Riven.pdb

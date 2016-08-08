@@ -1,0 +1,19 @@
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\Reforged Riven.exe.config
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\Reforged Riven.exe.manifest
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\Reforged Riven.application
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\Reforged Riven.exe
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\Reforged Riven.pdb
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\EloBuddy.dll
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\LeagueSharp.Common.dll
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\LeagueSharp.Data.dll
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\LeagueSharp.SDKEx.dll
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\SharpDX.dll
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\EloBuddy.SDK.dll
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\ACER\Desktop\Port\Reforged Riven\bin\Release\Newtonsoft.Json.dll
+C:\Users\ACER\Desktop\Port\Reforged Riven\obj\Release\Reforged Riven.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Desktop\Port\Reforged Riven\obj\Release\Reforged Riven.exe.manifest
+C:\Users\ACER\Desktop\Port\Reforged Riven\obj\Release\Reforged Riven.application
+C:\Users\ACER\Desktop\Port\Reforged Riven\obj\Release\Reforged Riven.exe
+C:\Users\ACER\Desktop\Port\Reforged Riven\obj\Release\Reforged Riven.pdb
